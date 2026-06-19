@@ -23,7 +23,3 @@ A Pokémon card portfolio tracker with live prices, P/L tracking, and trade anal
 
 Run `supabase_schema_v16.sql` in your Supabase SQL editor (Schema → SQL Editor → New Query).
 If upgrading from v15, only the `trade_analyses` table is new — see migration note in the SQL file.
-
-## Environment variables (client)
-
-`SUPABASE_URL` and `SUPABASE_ANON_KEY` are hardcoded in `public/js/app.js` for the client — replace them with your project values if you fork this.
