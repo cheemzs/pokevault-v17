@@ -1,0 +1,9 @@
+{
+  "name": "pokevault-v17",
+  "version": "17.0.0",
+  "description": "PokéVault v17 - Pokémon card portfolio tracker with trade analyser, sealed product support, and improved UI",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
