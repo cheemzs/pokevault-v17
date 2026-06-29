@@ -1,4 +1,4 @@
-# PokéVault v17
+# PokéVault v17 better work
 
 A Pokémon card portfolio tracker with live prices, P/L tracking, and trade analysis.
 
